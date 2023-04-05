@@ -6,13 +6,13 @@ This program first requires you to draw a maze and set a start and end location 
 ## controls
 Use **arrowkeys** to place a node (square) on the grid.  Valid routes between nodes are indicated by a thin edge (line).
 
-press **d** to delete a node and all edges
+press **d** to delete a node and all connected edges
 
-press **e** to place an end marker which is where the algorithm will attempt to location
+press **e** to place an end marker.  This is where the location the algorithm will attempt to find
 
 press **s** to place a start marker which is where the algorithm will search from
 
-press **space** to 'lift' the drawing pen from the page to navigate without drawing nodes.  press space again to start drawing again
+press **space** to 'lift' the drawing pen from the page to navigate without drawing nodes.  Press space again to start drawing again
 
 press **return** (enter) to start the breadth first search algorithm
 
