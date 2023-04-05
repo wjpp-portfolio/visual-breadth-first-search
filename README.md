@@ -1,7 +1,7 @@
 # visual-breadth-first-search
 A python bfs algorithm demonstrated in a user-created maze
 
-This program first requires you to draw a maze and set a start and end location for the search.  The program will then highlight the route from the start to end.  An impossible route will reset the grid as there is nothing to show.
+This program first requires you to draw a maze and set a start and end location for the search.  The program will then highlight the route from the start to end in yellow.  An impossible route will reset the grid as there is nothing to show.
 
 ## controls
 Use **arrow keys** to place a node (square) on the grid.  Valid routes between nodes are indicated by a thin edge (line).
